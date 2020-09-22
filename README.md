@@ -1,4 +1,7 @@
-# OLX Click Predict
+# Location Aware Sequential Recommendation Using Hybrid Recurrent Neural Networks
+
+You can read the paper [here](https://scripties.uba.uva.nl/search?id=690931)
+
 _Hybrid Recurrent Neural Network architectures_
 
 Author: Dimitris Michailidis.  
